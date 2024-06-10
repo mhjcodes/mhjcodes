@@ -1,20 +1,7 @@
-1. logistic regression - imp - done
-2. linear regression - imp - done
-3. K nearest neighbour - imp - going to do
-4. Random forest - powerful
-5. Decision trees - powerful
-6. Support vector machines - imp & powerful - done
-7. gradient descent - optimisation technique - very imp - done
-8. k means clustering - imp
-
-https://github.com/I-PranjalMishra/CodePlay-Edtech-MERN.git
-
-
-
 <h1 align="center">Hi 👋, I'm Minhajudeen Taj</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-(img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/3c363bcd2f52dd4f49ab812e5e6ed96f/beb34c98c54f709f-47/s500x750/0c2a2bd3c105172a67b935ddef7321e0117360a0.gif")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 
 
