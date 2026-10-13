@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently into **ML/AI**
 
-- 💬 Ask me about **MERN,ML,MLOps**
+- 💬 Ask me about **AI,ML,MLOps**
 
 - 📫 How to reach me **minhajudeentaj4@gmail.com**
 
