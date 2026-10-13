@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **AI,ML,MLOps**
 
-- 📫 How to reach me **minhajudeentaj4@gmail.com**
+- 📫 How to reach me **minhajudeen123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
